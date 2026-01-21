@@ -14,7 +14,7 @@ Currently learning **C#**, **Angular**, and **MSSQL**.
 ---
 
 ### 🛠️ Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=cs,angular,cpp,dotnet,firebase,git,github,,mysql,js,ts,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,angular,cpp,dotnet,firebase,git,github,mysql,js,ts,html,css)](https://skillicons.dev)
 
 ---
 
